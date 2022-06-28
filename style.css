@@ -1,0 +1,29 @@
+body{
+    height: 100vh;
+    background-color: rgb(135, 95, 172);
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    transform: translateY(-50%);
+    border: 8px solid ;
+}
+header{
+    background: url("https://i.pinimg.com/236x/b4/43/23/b4432341f37c42f66aad9ed93eb14b3d--lego-scrap.jpg");
+    background-size: cover;
+}
+main{
+    background-color: rgb(211, 201, 220);
+    width: 500px;
+    border: 3px solid rgb(9, 9, 9);
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+}
+a:hover{
+    color: rgb(245, 245, 11);
+}
