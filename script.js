@@ -1,2 +1,2 @@
 let nome = prompt("digite seu nome")
-alert("bem vindo(a) " + nome)
+alert("Bem vindo(a) " + nome)
